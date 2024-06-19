@@ -13,4 +13,4 @@ Para poder ver la presentacion, pueden acceder mediante el siguiente enlace:
 https://www.canva.com/design/DAGIiRC6Hp0/lOIOLlg8xqK9g0JT2nd4bw/view?utm_content=DAGIiRC6Hp0&utm_campaign=designshare&utm_medium=link&utm_source=editor
 # Video de prueba
 Si quieren observar el funcionamiento del codigo lo pueden hacer dando clik en el siguiente enlace:
-
+https://epnecuador-my.sharepoint.com/:v:/g/personal/leandro_bravo_epn_edu_ec/EeyewkXmPJFDhl8yOAAHA8kBuAuNllrzcM-lvkObOrVLUA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=osi9rI
