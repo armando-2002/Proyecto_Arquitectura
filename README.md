@@ -9,7 +9,7 @@ Sea x1=1.5m , x2=2m y H=0.5m, como se muestra a contnuacion el ancho del pasillo
 
 # Presentacion
 Para poder ver la presentacion, pueden acceder mediante el siguiente enlace:
-[https://www.canva.com/design/DAGIiRC6Hp0/lOIOLlg8xqK9g0JT2nd4bw/view?utm_content=DAGIiRC6Hp0&utm_campaign=designshare&utm_medium=link&utm_source=editor]
+https://www.canva.com/design/DAGIiRC6Hp0/lOIOLlg8xqK9g0JT2nd4bw/view?utm_content=DAGIiRC6Hp0&utm_campaign=designshare&utm_medium=link&utm_source=editor
 # Video de prueba
 Si quieren observar el funcionamiento del codigo lo pueden hacer dando clik en el siguiente enlace:
 
